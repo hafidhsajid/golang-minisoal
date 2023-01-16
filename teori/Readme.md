@@ -4,7 +4,7 @@
 
 Terdapat Pesan ERROR ```Error response from daemon: dockerfile parse error line 17: unknown instruction: LISTEN
 jadi EXPOSE ```
-Hal ini terjadi dikarenakan sintaks `LISTEN`
+Hal ini terjadi dikarenakan salah sintaks pada `LISTEN` yang seharusnya `EXPOSE`
 
 Berikut untuk perbaikan dari DOCKERFILE
 
