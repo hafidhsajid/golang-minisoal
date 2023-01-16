@@ -8,8 +8,8 @@
 
 
 ## Soal 3-5
-[Link ke code soal dua](./teori).
+[Link ke code soal 3-5](./teori).
 
 ## Soal 6
-[Link ke code soal dua](./cart).
+[Link ke code soal enam](./cart).
 
