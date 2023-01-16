@@ -1,0 +1,11 @@
+3
+Error response from daemon: dockerfile parse error line 17: unknown instruction: LISTEN
+jadi EXPOSE 
+
+4 
+tujuan microservice
+
+5
+index bekerja pada db
+cara kerjanya yaitu seperti pada hash map dimana jika kita mengakses index tersebut maka akan mengambil key dari index yang sudah di deklarasikan tersebut jika tidak maka db akan meloop dulu dan mencari data yang dimaksud
+
